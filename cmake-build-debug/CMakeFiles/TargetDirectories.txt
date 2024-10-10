@@ -1,0 +1,3 @@
+C:/Users/isaic/OneDrive/Documents/PrimerParcial/PrimerParcialEjercicio5/cmake-build-debug/CMakeFiles/PrimerParcialEjercicio5.dir
+C:/Users/isaic/OneDrive/Documents/PrimerParcial/PrimerParcialEjercicio5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/isaic/OneDrive/Documents/PrimerParcial/PrimerParcialEjercicio5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
